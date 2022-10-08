@@ -55,7 +55,7 @@ module.exports = {
       accounts: [BINANCE_TESTNET_PRIVATE_KEY],
       chainId:97,
     },
-    ether
+    
   },
   
 };
