@@ -1,0 +1,11 @@
+POLYGON_TESTNET_PRIVATE_KEY=Your Polygon Account private key
+POLYGON__TESTNET_RPC_URL= Polygon RPC URL
+BINANCE_TESTNET_PRIVATE_KEY=Your Binance Account private key
+BINANCE__TESTNET_RPC_URL= Binance RPC URL
+GOERLI_TESTNET_PRIVATE_KEY=Your Goerli Account private key
+GOERLI__TESTNET_RPC_URL= Goerli RPC URL
+
+COINMARKETCAP_API_KEY= Your coinMarketCAP API key
+BINANCE_MAINNET_API=your Binance mainnet api key 
+POLYGON_MAINNET_API=your Polygon mainnet api key 
+ETHEREUM_MAINET_API=your Ethereum mainnet api key 
