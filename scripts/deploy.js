@@ -4,7 +4,7 @@ async function main() {
   const [deployer] = await ethers.getSigners();
   console.log(`Deploying contracts with the account: ${deployer.address}`);
   //ERC721 Contract Deploying
-  const ERC721 = await ethers.getContractFactory("ERC721Test");
+  const ERC721 = await ethers.getContractFactory("ERC721Custom");
   const ERC721Contract = await ERC721.deploy();
   await ERC721Contract.deployed();
   console.log(`ERC721 Contract deployed to ${ERC721Contract.address}`)
